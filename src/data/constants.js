@@ -301,8 +301,8 @@ export const education = [
     school: "Methodist School, Dankuni",
     date: "Apr 2019 - Apr 2025",
     grade: "88.2%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    desc: "I completed my class 12 high school education at SR Junnior College, karimnagar, where I studied Science with Maths Physics Chemistry.",
+    degree: "TSBIE(XII), Science with Maths",
   },
   {
     id: 2,
@@ -310,7 +310,7 @@ export const education = [
     school: "Methodist School, Dankuni",
     date: "Apr 2017 - Apr 2019",
     grade: "92.3%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
+    desc: "I completed my class 10 education at Brilliant Model School, Dankuni, where I studied Science with Computer Application.",
     degree: "ICSC(X), Science with Computer",
   },
 ];
